@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "thematic-bonus-278717",
+  "private_key_id": "88b0a323bd5b6a0357389be0c312456b2d2e574f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsZk0xZFkXzs8d\n5qiiqhJbKtM3QUW/kxiDVKtYj7B6KeBnKOARKYMQ24ydtW3Ui8S4qZ1zFIRWHfCU\npLQtBlWTRpN1DN/NuTcD0hifs/dzBMhg2T+RPtYJsAYPzlQ4Cro8f9Lw4oLzp1py\ngpnLPuJvKAw20VpjeUC9seEnB+/psTDi7hvaRzOY+YEHh6amncC/bvabu5mjV9OD\nGFmTVsQCf/6Rx7/8OvOcL3ZjvzF377OQNi2GMZeMM44FTFBs86g2HSYGhtJqgXOV\nEqLcAupWUnRf+PKoewMmd6N2llsHYJG4l9czeodCqSMrSFWJyTSbVOe71y+7k5m/\nVCS9C5DnAgMBAAECggEAAeRKD2oeMUz5Ff4NrWIg8gIDuQl/LiayNLxvry+rUPBu\naao8TX0NH/1fnVpFKoufOm07MMhfbIXrlQzWMwTafUE7AP/O4XYrsTtTiCGrbAZB\nIBE5EsaoT8ALlY31xOjNzBOVSUSJ5Qn+gqhPE7i6W+53tiEjHjTj1vovSN/JtU52\n9350javKLHxw6+q+5schdhhLlv3WeL2gvmNfUJaRuDv1/lpx8FMhbYK9HciB1t6a\nwPYMO3XBY2XRuzADGrCaq/4s1vfNfpVppgz5rFd6ItRSPSe6zJ1lZNbX5O7R1qjX\nbKZhOcWtfV5TUJcpkzqJhFzwqm7WAnm+fVze+ZYQkQKBgQDj7ZxPa5QqJWpAiB19\nvnJSSQvazImTQjiqza6nDAqyLCKFKhICzy2Xbk+qBL88L9WMwsBsn1rXDHaPkhFA\n5E9cyBPvk30SR857AXnJElW3GGM0bEzIfAzgvXHI85Ejcgctc8mGyzFtfd4z0pT2\n1ailjuM/IrfCxNvMJxKG8UynjQKBgQDBoevEqFj6gPg48g6IyLr1ZmdkEqDf7lv1\n80/eEuHg1UIio0Gv/CgYhKyEexqJYzO2d71WlphoanVLY9zGW+RlDRyLyFidAqSm\nLizVQCoHmgVy5AVHCa2Y6yAJYJebI0uhk5kQLN8UAXoJdvEMSEa9NXkft+oTGF6Q\n/Ubi/41TQwKBgQC4bj47LYuYhunxCbMDWqVa2+yRwUvZMo5z9zbJyL6m6XuNUTt9\ntnLnw8UGiAzOAM7FtZjKzC9PL7CH/+OiJJvrMaKgCzH7Jst3UPxgrUtaeotbkf6X\ng3lQKTr3Jc9dZRlVuAlr3uNB+8VfHZiYGs76GCLdpZQYL/7CtSMSuhISyQKBgHxD\nN5TrHL8WSTXyUVWCzEh0QWG9erR6uVVrohO4NnEdKuYjsyIHRowFiNk0T2Ff4m31\nBfMtjf1kZIXPPn2ltzsKYQlrt0J70cI729W26cIbG+gRYTmnglqiedrKvEB5NC4r\nFI2G3lpuYCz2wdbKA2ulh2fNlVBP0VBm2jkPG1kVAoGATx9U0bV0EVLAEq7UXG9J\ndoAMO1UGUilbEqDO9Y1Z7SEsr/BdftU88PxZSfa+gLneexUOpRg6D8sllH8JzIWb\nI0/uEgrOsABYDXWbESy82WAQ6XziOLyiEiGpqjsZEMuZIjGp7B7kh5F5BOpHDUL+\nuvpS6k/bHFRrw3qWdxPvElk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pigisbuff@thematic-bonus-278717.iam.gserviceaccount.com",
+  "client_id": "101001633949087813589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pigisbuff%40thematic-bonus-278717.iam.gserviceaccount.com"
+}
